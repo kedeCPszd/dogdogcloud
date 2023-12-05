@@ -1,0 +1,5 @@
+.my-alert {
+    -fx-background-color: #FFFF00; /* 设置对话框背景色为黄色 */
+    -fx-font-size: 14px; /* 设置字体大小 */
+    /* 其他样式设置 */
+}
